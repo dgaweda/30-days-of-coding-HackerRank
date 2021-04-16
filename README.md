@@ -7,3 +7,5 @@
  - Day 13: Abstract Class and Inheritance
  - Day 14: Math.Abs - Searching for maximum difference in array
  - Day 15: Linked Lists
+ - Day 16: Conversion with Exception
+ - Day 17: Math.pow  + Exceptions
