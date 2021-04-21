@@ -10,3 +10,4 @@
  - Day 16: Conversion with Exception
  - Day 17: Math.pow  + Exceptions
  - Day 18: Queue + Stack - Checking if input is palindrome
+ - Day 19: Interfaces
