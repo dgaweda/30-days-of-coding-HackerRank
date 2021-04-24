@@ -20,7 +20,7 @@ namespace Day20
             var temp = 0;
             for (var i = 0; i < arr.Length; i++)
             {
-                for (var j = 0; j < arr.Length; j++)
+                for (var j = 0; j < arr.Length-1; j++)
                 {
                     if (arr[i] < arr[j])
                     {
