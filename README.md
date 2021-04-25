@@ -12,3 +12,5 @@
  - Day 18: Queue + Stack - Checking if input is palindrome
  - Day 19: Interfaces
  - Day 20: BubbleSort - 
+ - Day 21: Generic Methods
+ - Day 22: Binary Search Tree - Getting height of the BST
