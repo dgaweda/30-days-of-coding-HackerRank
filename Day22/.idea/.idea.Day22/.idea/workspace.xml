@@ -4,12 +4,7 @@
     <projectFile>Day22/Day22.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72aac6ab-c650-49a9-a907-2f0b6b2edc87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day22/task.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Day22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Day22/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day22/Day22.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Day22/Day22.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day22/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Day22/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="72aac6ab-c650-49a9-a907-2f0b6b2edc87" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,8 +64,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619357047705</updated>
-      <workItem from="1619357054929" duration="2462000" />
+      <workItem from="1619357054929" duration="2683000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished Day 22 - BST (need to study)">
+      <created>1619359740123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619359740123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Finished Day 22 - BST (need to study)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Day 22 - BST (need to study)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -100,10 +105,10 @@
           <line>42</line>
           <properties documentPath="$PROJECT_DIR$/Day22/Program.cs" initialLine="35" containingFunctionPresentation="method 'Insert'">
             <startOffsets>
-              <option value="1476" />
+              <option value="1496" />
             </startOffsets>
             <endOffsets>
-              <option value="1526" />
+              <option value="1546" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
@@ -113,10 +118,10 @@
           <line>46</line>
           <properties documentPath="$PROJECT_DIR$/Day22/Program.cs" initialLine="39" containingFunctionPresentation="method 'Insert'">
             <startOffsets>
-              <option value="1638" />
+              <option value="1658" />
             </startOffsets>
             <endOffsets>
-              <option value="1734" />
+              <option value="1754" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="3" />
@@ -126,10 +131,10 @@
           <line>52</line>
           <properties documentPath="$PROJECT_DIR$/Day22/Program.cs" initialLine="45" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="1910" />
+              <option value="1930" />
             </startOffsets>
             <endOffsets>
-              <option value="1911" />
+              <option value="1931" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="4" />
