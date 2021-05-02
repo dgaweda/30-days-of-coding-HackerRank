@@ -15,3 +15,4 @@
  - Day 21: Generic Methods
  - Day 22: Binary Search Tree - Getting height of the BST
  - Day 23: Binary Search Tree - Level- Order traversal
+ - Day 24: More Linked Lists
