@@ -13,7 +13,12 @@ class Solution {
     }
     public static void IfPrime(int number)
     {
-        var prime = false;
+        if (number == 1)
+        {
+            Console.WriteLine("Not Prime");
+            return;
+        }
+
         for (var i = 2; i <= Math.Sqrt(number); i++)
         {
             if ((number % i) == 0)
