@@ -14,7 +14,7 @@ class Solution {
         Console.WriteLine(CheckFine(returnDateInt, dueDateInt));
     }
 
-    public static int[] ConvertToInt(string[] tab)
+    private static int[] ConvertToInt(string[] tab)
     {
         var convertedTab = new int[tab.Length];
         for (var i = 0; i < tab.Length; i++)
@@ -24,7 +24,7 @@ class Solution {
         return convertedTab;
     }
 
-    public static int CheckFine(int[] returnDateInt, int[] dueDateInt)
+    private static int CheckFine(int[] returnDateInt, int[] dueDateInt)
     {
         var fine = 0;
         if (returnDateInt[2] > dueDateInt[2])
