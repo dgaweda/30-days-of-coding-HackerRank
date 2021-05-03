@@ -16,3 +16,5 @@
  - Day 22: Binary Search Tree - Getting height of the BST
  - Day 23: Binary Search Tree - Level- Order traversal
  - Day 24: More Linked Lists
+ - Day 25: Running Time and Complexity - Finding Prime number using Algorithm
+ - Day 26: Nested Logic
