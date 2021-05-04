@@ -18,3 +18,5 @@
  - Day 24: More Linked Lists
  - Day 25: Running Time and Complexity - Finding Prime number using Algorithm
  - Day 26: Nested Logic
+ - Day 27: Regular Expressions in C#
+ - Day 28: Testing in Python3
