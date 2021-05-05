@@ -20,3 +20,4 @@
  - Day 26: Nested Logic
  - Day 27: Regular Expressions in C#
  - Day 28: Testing in Python3
+ - Day 29: AND Operation with limit (A & B with K limit)
