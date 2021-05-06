@@ -1,6 +1,5 @@
 # HackerRankTasks
  # Day 1 to Day 7 Tasks are too simple for publicity
- <br />
  - Day 8: Dictionaries and Maps
  - Day 9: Recursion
  - Day 10: Recursive
