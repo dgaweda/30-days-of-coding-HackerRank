@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37261e09-1237-465f-941b-16ae323e8cf6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day24/Day24/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day27/Day27/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day15/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/day15/Program.cs" />
+      <option value="$PROJECT_DIR$/Day24/Day24/Program.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1r8Ia9H5SNF94m1bDM4brycjOlU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day24" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37261e09-1237-465f-941b-16ae323e8cf6" name="Default Changelist" comment="" />
+      <created>1618351352457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618351352457</updated>
+      <workItem from="1618351360442" duration="1712000" />
+      <workItem from="1618353103729" duration="42000" />
+      <workItem from="1618591530416" duration="706000" />
+      <workItem from="1618595018987" duration="98000" />
+      <workItem from="1618844475202" duration="681000" />
+      <workItem from="1619003271286" duration="891000" />
+      <workItem from="1619088962844" duration="592000" />
+      <workItem from="1619168672793" duration="82000" />
+      <workItem from="1619171901692" duration="3000" />
+      <workItem from="1619357029518" duration="98000" />
+      <workItem from="1619432042312" duration="72000" />
+      <workItem from="1620146778452" duration="36000" />
+      <workItem from="1620151343804" duration="148000" />
+      <workItem from="1620234716744" duration="739000" />
+      <workItem from="1620323440549" duration="52000" />
+      <workItem from="1620324979649" duration="451000" />
+      <workItem from="1620326604323" duration="176000" />
+    </task>
+    <task id="LOCAL-00001" summary="x">
+      <created>1619357116180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619357116180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="xyz">
+      <created>1619432080349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619432080349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor">
+      <created>1620151484432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620151484432</updated>
+    </task>
+    <task id="LOCAL-00004" summary="day27">
+      <created>1620234754569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620234754569</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New Task">
+      <created>1620235594459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620235594459</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="x" />
+    <MESSAGE value="xyz" />
+    <MESSAGE value="refactor" />
+    <MESSAGE value="day27" />
+    <MESSAGE value="New Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Task" />
+  </component>
+</project>
