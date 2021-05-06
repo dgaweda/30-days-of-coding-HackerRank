@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-
 class Node
 {
     public int data;
@@ -11,18 +9,30 @@ class Node
     }
 		
 }
-class Solution {
-    public static Node Insert(Node head,int data)
+
+class Solution
+{
+
+    public static Node insert(Node head, int data)
     {
-        
+        if(head == null)
+            return new Node(data);
+        else if(head.next == null){
+            head.next = new Node(data);
+        }
+        else{
+            insert(head.next,data);
+        }
+        return head;
+
     }
 
-    public static void Display(Node head)
+    public static void display(Node head)
     {
-        Node start=head; // EMPTY LINKED LIST which i should add something
+        Node start=head;
         while(start!=null)
         {
-            Console.Write(start.data + " ");
+            Console.Write(start.data+" ");
             start=start.next;
         }
     }
@@ -32,8 +42,8 @@ class Solution {
         int T=Int32.Parse(Console.ReadLine());
         while(T-->0){
             int data=Int32.Parse(Console.ReadLine());
-            head=Insert(head,data);
+            head=insert(head,data);
         }
-        Display(head);
+        display(head);
     }
 }
