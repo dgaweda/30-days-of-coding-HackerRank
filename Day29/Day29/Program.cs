@@ -1,6 +1,15 @@
-﻿using System.Collections.Generic;
+using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.Collections;
+using System.ComponentModel;
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization;
+using System.Text.RegularExpressions;
+using System.Text;
 using System;
 
 class Result
@@ -17,40 +26,24 @@ class Result
 
     public static int bitwiseAnd(int N, int K)
     {
-        var j = 1;
         var andResult = 0;
-        var integers = new int[N];
-        var andResults = new List<int>();
-        var finalResult = 0;
-        for (var i = 0; i < N; i++) // filling tab
-        {
-            integers[i] = j;
-            j++;
-        }
-
-        for (var k = 1; k < integers.Length; k++)
-        {
-            for (var l = 2; l <= integers.Length; l++)
-            {
-                andResult = integers[k] & l;
-                if (!andResults.Contains(andResult))
-                {
-                    andResults.Add(andResult);
-                }
+        var max = 0;
+        var p = 1;
+        
+        while(p++ <= N){
+            for(int s = p + 1; s <= N; s++){
+                andResult = p & s;
+                 if(andResult < K && andResult > max){
+                     max = andResult;
+                     if(max == (K-1))
+                     {
+                         break;
+                     }
+                 }
             }
         }
-
-        var sortedList = andResults.OrderByDescending(x => x).ToList();
-        foreach (var elem in sortedList)
-        {
-            if (elem < K)
-            {
-                finalResult = elem;
-                break;
-            }
-        }
-
-        return finalResult;
+     
+        return max;
     }
 
 }
