@@ -1,5 +1,5 @@
 # HackerRankTasks - 30-days-of-coding
- # Day 1 to Day 7 Tasks are too simple for publicity
+ # Day 0 to Day 7 Tasks are too simple for publicity
  - Day 8: Dictionaries and Maps
  - Day 9: Recursion
  - Day 10: Recursive
